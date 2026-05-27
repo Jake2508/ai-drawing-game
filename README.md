@@ -1,5 +1,5 @@
 # AI Draw & Guess
-Repository for my AI Draw & Guess browser game
+Repository for my AI Draw & Guess browser game. Coded by Claude Code.
 
 <!-- Visit: https://your-deployed-url-here -->
 
